@@ -8,6 +8,11 @@ awesome-ios
 
 ---
 
+## App open source 
+>[kickstarter](https://github.com/kickstarter/ios-oss) <br>
+
+---
+
 ## organization
 >[Point-Free](https://github.com/pointfreeco) A video series exploring Swift and functional programming. <br>
 >[Immobiliare Labs](https://github.com/immobiliare) t took sharp skills in technology to establish Immobiliare.it as the leadering online service provider for the real estate market. <br>
