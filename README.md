@@ -81,8 +81,9 @@ awesome-ios
 
 
 ## uiscrollview nested uiscrollview
-```
-uiscrollview nested uiscrollview 实现原理就是两个scrollview，父scrollview和子scrollview，跟据offset决定父scrollview和子scrollview的isScrollEnable属性，[GKPageScrollView]和[SegementSlide]都是这么实现的。
+``` ruby
+uiscrollview nested uiscrollview 实现原理就是两个scrollview，父scrollview和子scrollview，
+跟据offset决定父scrollview和子scrollview的isScrollEnable属性，[GKPageScrollView]和[SegementSlide]都是这么实现的。
 ```
 >[SegementSlide](https://github.com/Jiar/SegementSlide) Multi-tier UIScrollView nested scrolling solution.  <br>
 >[JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView) A powerful and easy to use segmented view  <br>
