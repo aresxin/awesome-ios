@@ -205,7 +205,10 @@ uiscrollview nested uiscrollview 实现原理就是两个scrollview，父scrollv
 ## collectionview collectionlayout
 >[CollectionKit](https://github.com/SoySauceLab/CollectionKit) A modern Swift framework for building composable data-driven collection view. <br>
 >[InfiniteLayout](https://github.com/arnauddorgans/InfiniteLayout) Horizontal and Vertical infinite scrolling feature for UICollectionView with Paging <br>
-
+>[SwiftGridView](https://github.com/nlampi/SwiftGridView) 可以用来做股票app Swift based data grid component based on UICollectionView. SwiftGridView allows for quick and easy data grids that are fully customizable with powerful built in functionality. <br>
+>[CCSheetView](https://github.com/cocos543/CCSheetView) CCSheetView继承自UITableView, 它实现了Cell的横向滚动功能, 并且支持多个Cell横向同步滚动, 效果看起来就像Office Excel oc代码仅供参考<br>
+>[StickyGridCollectionView-Final](https://github.com/V8tr/StickyGridCollectionView-Final) About
+Sticky Grid Collection View: Implementing From Scratch <br>
 ---
 
 ## Date
