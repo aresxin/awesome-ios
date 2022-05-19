@@ -199,7 +199,8 @@ uiscrollview nested uiscrollview 实现原理就是两个scrollview，父scrollv
 ## SwiftUI
 >[stinsen](https://github.com/rundfunk47/stinsen) Simple, powerful and elegant implementation of the Coordinator pattern in SwiftUI.  <br>
 >[Popovers](https://github.com/aheze/Popovers) A library to present popovers. <br>
-
+>[clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) swiftUI架构 About
+SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more. <br>
 ---
 
 ## collectionview collectionlayout
