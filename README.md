@@ -130,7 +130,7 @@ uiscrollview nested uiscrollview 实现原理就是两个scrollview，父scrollv
 >[ParallaxHeader](https://github.com/romansorochak/ParallaxHeader) Simple way to add parallax header to UIScrollView or it's subclasses. <br>
 >[TwitterProfile](https://github.com/OfTheWolf/TwitterProfile) asily create screens like Instagram and Twitter profile. Example project shows Twitter case but you can change header and bottom view controllers easily to mimic instagram or similar UIs. <br>
 >[GKPageScrollView](https://github.com/QuintGao/GKPageScrollView) About iOS类似微博、抖音、网易云等个人详情页滑动嵌套效果<br>
-
+>[SGPagingView](https://github.com/kingsic/SGPagingView) <br>
 ---
 
 ## BottomSheet
