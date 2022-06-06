@@ -75,7 +75,7 @@ awesome-ios
 ## Camera
 >[iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) <br>
 >[image-segmenter-ios](https://github.com/cainxx/image-segmenter-ios) <br>
-
+>[MagicCamera](https://github.com/william0wang/MagicCamera) <br>
 ---
 
 ## Network API
