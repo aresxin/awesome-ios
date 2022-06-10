@@ -171,12 +171,13 @@ uiscrollview nested uiscrollview 实现原理就是两个scrollview，父scrollv
 
 ---
 
-## UI
+## UI Component
 >[antern](https://github.com/fcbox/Lantern) Lantern（花灯）是一个基于Swift的高可用视图框架。它基于iOS原生的图片/视频浏览功能进行封装，并提供了更加酷炫的交互方式。此外，它还提供丰富的接口，扩展灵活，能让App快速集成浏览功能。<br>
 >[AttributedString](https://github.com/lixiang1994/AttributedString) AttributedString - 基于Swift插值方式优雅的构建富文本 <br>
 >[UIComponent](https://github.com/lkzhao/UIComponent) This framework allows you to build UI using UIKit with syntax similar to SwiftUI "可以通过这个代码学习resultBuilder dynamicMemberLookup 协议"<br>
 >[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) A set of cool animated page controls written in Swift to replace boring UIPageControl <br>
-
+>[SwiftTheme](https://github.com/wxxsw/SwiftTheme) (Powerful theme/skin manager for iOS 9+ 主题/换肤, 暗色模式) [主要参考主题资源下载以及加载的代码]<br>
+>[SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) (It makes a preview from an URL, grabbing all the information such as title, relevant texts and images.) <br>
 ---
 
 
