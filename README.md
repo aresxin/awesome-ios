@@ -178,6 +178,7 @@ uiscrollview nested uiscrollview 实现原理就是两个scrollview，父scrollv
 >[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) A set of cool animated page controls written in Swift to replace boring UIPageControl <br>
 >[SwiftTheme](https://github.com/wxxsw/SwiftTheme) (Powerful theme/skin manager for iOS 9+ 主题/换肤, 暗色模式) [主要参考主题资源下载以及加载的代码]<br>
 >[SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) (It makes a preview from an URL, grabbing all the information such as title, relevant texts and images.) <br>
+>[BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl)  An easy to use, customizable replacement for UISegmentedControl & UISwitch <br>
 ---
 
 
