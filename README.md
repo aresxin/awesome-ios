@@ -105,7 +105,8 @@ awesome-ios
 >https://github.com/saddamakhtar88/TipView <br>
 >https://github.com/Kofktu/KUIPopOver 用系统原生的UIPopoverPresentationController实现, 扩展性比较强 <br>
 >[FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift) 主要参考getBackgroundPath方法里面arrow描画的部分<br>
-
+>[PopMenu](https://github.com/CaliCastle/PopMenu) <br>
+>[SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) <br>
 ---
 
 ## Alert
@@ -249,3 +250,6 @@ Sticky Grid Collection View: Implementing From Scratch <br>
 
 ## Effects
 >[effects-library](https://github.com/GetStream/effects-library) <br>
+
+## structure an application
+>[AsyncStateMachine](https://github.com/twittemb/AsyncStateMachine) <br>
