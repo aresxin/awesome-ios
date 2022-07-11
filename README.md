@@ -241,15 +241,27 @@ Sticky Grid Collection View: Implementing From Scratch <br>
 ## WKWebView
 >[WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) A Bridge for Sending Messages between Swift and JavaScript in WKWebViews. <br>
 
+---
+
 ## Controllers Transition
 >[SPLarkController](https://github.com/ivanvorobei/SPLarkController) <br>
+
+---
 
 ## push-tester
 >[macos-push-tester](https://github.com/rakutentech/macos-push-tester) <br>
 
+---
 
 ## Effects
 >[effects-library](https://github.com/GetStream/effects-library) <br>
 
+---
+
 ## structure an application
 >[AsyncStateMachine](https://github.com/twittemb/AsyncStateMachine) <br>
+
+---
+
+## network
+>[swift-multipart-formdata](https://github.com/FelixHerrmann/swift-multipart-formdata) Build multipart/form-data type-safe in Swift. A result builder DSL is also available. (主要参考用result builder封装multipart-formdata数据)
