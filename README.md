@@ -180,6 +180,10 @@ uiscrollview nested uiscrollview 实现原理就是两个scrollview，父scrollv
 >[SwiftTheme](https://github.com/wxxsw/SwiftTheme) (Powerful theme/skin manager for iOS 9+ 主题/换肤, 暗色模式) [主要参考主题资源下载以及加载的代码]<br>
 >[SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) (It makes a preview from an URL, grabbing all the information such as title, relevant texts and images.) <br>
 >[BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl)  An easy to use, customizable replacement for UISegmentedControl & UISwitch <br>
+>[Atributika](https://github.com/psharanda/Atributika) About
+Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement. <br>
+>[RandomColorSwift](https://github.com/onevcat/RandomColorSwift) An attractive color generator for Swift. Ported from randomColor.js. <br>
+
 ---
 
 
@@ -266,3 +270,9 @@ Sticky Grid Collection View: Implementing From Scratch <br>
 
 ## network
 >[swift-multipart-formdata](https://github.com/FelixHerrmann/swift-multipart-formdata) Build multipart/form-data type-safe in Swift. A result builder DSL is also available. (主要参考用result builder封装multipart-formdata数据) <br>
+
+
+---
+
+## autolayout
+>[Align](https://github.com/kean/Align) Intuitive and powerful Auto Layout library <br>
