@@ -183,7 +183,7 @@ uiscrollview nested uiscrollview 实现原理就是两个scrollview，父scrollv
 >[Atributika](https://github.com/psharanda/Atributika) About
 Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement. <br>
 >[RandomColorSwift](https://github.com/onevcat/RandomColorSwift) An attractive color generator for Swift. Ported from randomColor.js. <br>
->[Skeleton](https://github.com/gonzalonunez/Skeleton) <br>
+>[Skeleton](https://github.com/gonzalonunez/Skeleton) An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content. <br>
 ---
 
 
