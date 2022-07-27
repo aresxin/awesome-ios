@@ -284,4 +284,4 @@ Sticky Grid Collection View: Implementing From Scratch <br>
 
 
 ## Combine
->[combine-schedulers](https://github.com/pointfreeco/combine-schedulers) <br>
+>[combine-schedulers](https://github.com/pointfreeco/combine-schedulers) A few schedulers that make working with Combine more testable and more versatile. <br>
