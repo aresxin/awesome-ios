@@ -80,6 +80,8 @@ awesome-ios
 
 ## Network API
 >[APIClient](https://github.com/kean/APIClient) <br>
+>[swift-multipart-formdata](https://github.com/FelixHerrmann/swift-multipart-formdata) Build multipart/form-data type-safe in Swift. A result builder DSL is also available. (主要参考用result builder封装multipart-formdata数据) <br>
+>[URLRequestBuilder](https://github.com/ParableHealth/URLRequestBuilder) <br>
 
 ---
 
@@ -184,6 +186,8 @@ uiscrollview nested uiscrollview 实现原理就是两个scrollview，父scrollv
 Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement. <br>
 >[RandomColorSwift](https://github.com/onevcat/RandomColorSwift) An attractive color generator for Swift. Ported from randomColor.js. <br>
 >[Skeleton](https://github.com/gonzalonunez/Skeleton) An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content. <br>
+>[Drops](https://github.com/omaralbeik/Drops) A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil <br>
+>[epoxy-ios](https://github.com/airbnb/epoxy-ios) Epoxy is a suite of declarative UI APIs for building UIKit applications in Swift 快速搭建UI<br>
 ---
 
 
@@ -268,8 +272,7 @@ Sticky Grid Collection View: Implementing From Scratch <br>
 
 ---
 
-## network
->[swift-multipart-formdata](https://github.com/FelixHerrmann/swift-multipart-formdata) Build multipart/form-data type-safe in Swift. A result builder DSL is also available. (主要参考用result builder封装multipart-formdata数据) <br>
+
 
 
 ---
