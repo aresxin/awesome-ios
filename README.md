@@ -76,6 +76,7 @@ awesome-ios
 >[iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) <br>
 >[image-segmenter-ios](https://github.com/cainxx/image-segmenter-ios) <br>
 >[MagicCamera](https://github.com/william0wang/MagicCamera) <br>
+>[AnyImageKit](https://github.com/AnyImageKit/AnyImageKit) AnyImageKit is a toolbox for picking, editing or capturing photos/videos, written in Swift. AnyImageKit 是一个选取、编辑、拍摄图片/视频的工具套件，使用 Swift 编写。<br>
 ---
 
 ## Network API
