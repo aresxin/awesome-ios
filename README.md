@@ -42,6 +42,7 @@
 * autolayout
 * Test
 * Combine
+* Swift
 
 
 
@@ -339,3 +340,5 @@ Sticky Grid Collection View: Implementing From Scratch <br>
 ## Combine
 >[combine-schedulers](https://github.com/pointfreeco/combine-schedulers) A few schedulers that make working with Combine more testable and more versatile. <br>
 
+## Swift
+>[SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) A handy collection of more than 500 native Swift extensions to boost your productivity. <br>
