@@ -130,7 +130,8 @@
 >[APIClient](https://github.com/kean/APIClient) <br>
 >[swift-multipart-formdata](https://github.com/FelixHerrmann/swift-multipart-formdata) Build multipart/form-data type-safe in Swift. A result builder DSL is also available. (主要参考用result builder封装multipart-formdata数据) <br>
 >[URLRequestBuilder](https://github.com/ParableHealth/URLRequestBuilder) <br>
-
+>[RSSwiftNetworking](https://github.com/rootstrap/RSSwiftNetworking) A Swift framework that provides a network communication layer API <br>
+>[swift-http-client](https://github.com/uhooi/swift-http-client) Communicate via HTTP easily in Swift. <br>
 ---
 
 ## awesome-ios
