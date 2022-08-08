@@ -238,7 +238,7 @@ Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. 
 >[Drops](https://github.com/omaralbeik/Drops) A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil <br>
 >[epoxy-ios](https://github.com/airbnb/epoxy-ios) Epoxy is a suite of declarative UI APIs for building UIKit applications in Swift 快速搭建UI<br>
 >[ContextMenuSwift](https://github.com/umerjabbar/ContextMenuSwift) A better version of iOS 13 Context Menu <br>
-
+>[EachNavigationBar](https://github.com/Pircate/EachNavigationBar) A custom navigation bar for each view controller. <br>
 ---
 
 
