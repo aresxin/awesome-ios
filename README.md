@@ -43,7 +43,7 @@
 * Test
 * Combine
 * Swift
-
+* MetricKit
 
 
 # awesome-ios
@@ -239,7 +239,8 @@ Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. 
 >[epoxy-ios](https://github.com/airbnb/epoxy-ios) Epoxy is a suite of declarative UI APIs for building UIKit applications in Swift 快速搭建UI<br>
 >[ContextMenuSwift](https://github.com/umerjabbar/ContextMenuSwift) A better version of iOS 13 Context Menu <br>
 >[EachNavigationBar](https://github.com/Pircate/EachNavigationBar) A custom navigation bar for each view controller. <br>
->[ARSLineProgress](https://github.com/soberman/ARSLineProgress) About iOS progress bar, replacement for the default activity indicator.br>
+>[ARSLineProgress](https://github.com/soberman/ARSLineProgress) About iOS progress bar, replacement for the default activity indicator <br>
+>[SideMenu](https://github.com/kukushi/SideMenu) An interactive iOS side menu with rich features. <br>
 ---
 
 
@@ -347,3 +348,6 @@ Sticky Grid Collection View: Implementing From Scratch <br>
 ## Swift
 >[SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) A handy collection of more than 500 native Swift extensions to boost your productivity. <br>
 >[swiftregex](https://github.com/SwiftFiddle/swiftregex) Swift Regex is an online tool to learn, build and test Swift Regex Regex and Regex Builder.<br>
+
+## MetricKit
+>[Meter](https://github.com/ChimeHQ/Meter) Library for interacting with MetricKit <br>
