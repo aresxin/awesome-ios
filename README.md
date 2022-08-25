@@ -257,7 +257,7 @@ Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. 
 
 ## log
 >[SwiftPrettyPrint](https://github.com/YusukeHosonuma/SwiftPrettyPrint) SwiftPrettyPrint gives Human-readable outputs than print(), debugPrint() and dump() in Swift standard library. <br>
-
+>[Glider](https://github.com/malcommac/Glider) Universal logging Swift - simple, extensible, performant! <br>
 ---
 
 ## Swift UI
@@ -327,10 +327,6 @@ Sticky Grid Collection View: Implementing From Scratch <br>
 >[AsyncStateMachine](https://github.com/twittemb/AsyncStateMachine) <br>
 
 ---
-
-
-
-
 ---
 
 ## autolayout
