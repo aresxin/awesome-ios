@@ -9,7 +9,7 @@
 * Device
 * DropDown
 * AppPersistence
-* Camera
+* Camera/Image
 * Network API
 * awesome-ios
 * SplashView
@@ -119,7 +119,7 @@
 >[Boutique](https://github.com/mergesort/Boutique) A simple but surprisingly fancy cache <br>
 ---
 
-## Camera
+## Metal/Camera/Image
 >[iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) <br>
 >[image-segmenter-ios](https://github.com/cainxx/image-segmenter-ios) <br>
 >[MagicCamera](https://github.com/william0wang/MagicCamera) <br>
@@ -214,7 +214,7 @@ uiscrollview nested uiscrollview 实现原理就是两个scrollview，父scrollv
 
 ## 图像处理的框架
 >[MetalPetal: An image processing framework based on Metal](https://github.com/MetalPetal/MetalPetal) <br>
-
+>[Brightroom](https://github.com/FluidGroup/Brightroom) A composable image editor using Core Image and Metal. <br>
 ---
 
 ## generate resources
