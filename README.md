@@ -209,6 +209,7 @@ uiscrollview nested uiscrollview 实现原理就是两个scrollview，父scrollv
 
 ## 截屏防护方案
 >https://github.com/RyukieSama/Swifty <br>
+>[ShyView](https://github.com/MarioIannotta/ShyView)A UI component that avoids screenshots and recordings <br>
 
 ---
 
