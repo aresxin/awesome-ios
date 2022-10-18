@@ -242,6 +242,7 @@ Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. 
 >[EachNavigationBar](https://github.com/Pircate/EachNavigationBar) A custom navigation bar for each view controller. <br>
 >[ARSLineProgress](https://github.com/soberman/ARSLineProgress) About iOS progress bar, replacement for the default activity indicator <br>
 >[SideMenu](https://github.com/kukushi/SideMenu) An interactive iOS side menu with rich features. <br>
+>[FloatingPanel](https://github.com/scenee/FloatingPanel) A clean and easy-to-use floating panel UI component for iO <br>
 ---
 
 
