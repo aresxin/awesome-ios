@@ -45,6 +45,8 @@
 * Swift
 * MetricKit
 * GCD/Thread/Concurrency
+* LongImageStitcher
+
 
 # awesome-ios
 
@@ -355,3 +357,8 @@ Sticky Grid Collection View: Implementing From Scratch <br>
 ## GCD/Thread/Concurrency
 >[Semaphore](https://github.com/groue/Semaphore) About
 A Synchronization Primitive for Swift Concurrency<br>
+
+
+## LongImageStitcher
+[OpenCVSwiftStitch](https://github.com/foundry/OpenCVSwiftStitch) Version 5 of OpenCVStitch. How to stitch images using OpenCV on iOS. This version demonstrates using Swift, Objective-C and C++ together in one project.<br>
+[LongImageStitcher](https://github.com/Haibo-Zhou/LongImageStitcher) A long images vertical stitcher written in Swift<br>
