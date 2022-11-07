@@ -46,7 +46,8 @@
 * MetricKit
 * GCD/Thread/Concurrency
 * LongImageStitcher
-
+* Reader
+* Hot Reloading
 
 # awesome-ios
 
@@ -362,3 +363,13 @@ A Synchronization Primitive for Swift Concurrency<br>
 ## LongImageStitcher
 [OpenCVSwiftStitch](https://github.com/foundry/OpenCVSwiftStitch) Version 5 of OpenCVStitch. How to stitch images using OpenCV on iOS. This version demonstrates using Swift, Objective-C and C++ together in one project.<br>
 [LongImageStitcher](https://github.com/Haibo-Zhou/LongImageStitcher) A long images vertical stitcher written in Swift<br>
+
+
+## Reader
+[DZMeBookRead](https://github.com/dengzemiao/DZMeBookRead) <br>
+
+
+## Hot Reloading
+[Inject](https://github.com/krzysztofzablocki/Inject) (Hot reloading workflow helper that enables you to save hours of time each week, regardless if you are using UIKit, AppKit or SwiftUI.) <br>
+[InjectionIII](https://github.com/johnno1962/InjectionIII) (About
+Re-write of Injection for Xcode in (mostly) Swift) <br>
