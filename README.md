@@ -48,6 +48,8 @@
 * LongImageStitcher
 * Reader
 * Hot Reloading
+* Memory leaks tracker
+
 
 # awesome-ios
 
@@ -373,3 +375,6 @@ A Synchronization Primitive for Swift Concurrency<br>
 [Inject](https://github.com/krzysztofzablocki/Inject) (Hot reloading workflow helper that enables you to save hours of time each week, regardless if you are using UIKit, AppKit or SwiftUI.) <br>
 [InjectionIII](https://github.com/johnno1962/InjectionIII) (About
 Re-write of Injection for Xcode in (mostly) Swift) <br>
+
+## Memory leaks tracker
+[LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) <br>
