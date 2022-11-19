@@ -293,7 +293,6 @@ Sticky Grid Collection View: Implementing From Scratch <br>
 >[SwiftDate](https://github.com/malcommac/SwiftDate) Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift. 
 ```let _ = ("2010-05-20 15:30:00".toDate() + 3.months - 2.days) ``` <br>
 >[DateBuilder](https://github.com/nicephoton/DateBuilder) Create dates and date components easily <br>
-
 ---
 
 ## CoreText
