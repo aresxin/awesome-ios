@@ -49,7 +49,7 @@
 * Reader
 * Hot Reloading
 * Memory leaks tracker
-
+* build tool 
 
 # awesome-ios
 
@@ -377,3 +377,7 @@ Re-write of Injection for Xcode in (mostly) Swift) <br>
 
 ## Memory leaks tracker
 [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) <br>
+
+
+## build tool 
+[Scipio](https://github.com/giginet/Scipio) (A new build tool to generate XCFramework) <br>
