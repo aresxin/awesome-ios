@@ -249,6 +249,7 @@ Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. 
 >[SideMenu](https://github.com/kukushi/SideMenu) An interactive iOS side menu with rich features. <br>
 >[FloatingPanel](https://github.com/scenee/FloatingPanel) A clean and easy-to-use floating panel UI component for iO <br>
 >[MagicTimer](https://github.com/MagicTimerFW/MagicTimer) MagicTimer is a UIView based timer that displays a countdown or count-up timer. <br>
+>[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) About Showcase your awesome new app features <br>
 ---
 
 
