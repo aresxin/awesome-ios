@@ -51,7 +51,7 @@
 * Memory leaks tracker
 * build tool 
 * concurrency
-
+* screenshot or screenrecording
 
 # awesome-ios
 
@@ -388,3 +388,6 @@ Re-write of Injection for Xcode in (mostly) Swift) <br>
 
 ## concurrency
 [swift-async-queue](https://github.com/dfed/swift-async-queue) A queue that enables ordered sending of events from synchronous to asynchronous code <br>
+
+## screenshot or screenrecording
+[ScreenshotPreventing-iOS](https://github.com/yoxisem544/ScreenshotPreventing-iOS) Prevent screenshot or screenrecording on iOS devices <br>
