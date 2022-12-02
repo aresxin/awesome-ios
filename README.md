@@ -52,6 +52,7 @@
 * build tool 
 * concurrency
 * screenshot or screenrecording
+* 3D
 
 # awesome-ios
 
@@ -391,3 +392,6 @@ Re-write of Injection for Xcode in (mostly) Swift) <br>
 
 ## screenshot or screenrecording
 [ScreenshotPreventing-iOS](https://github.com/yoxisem544/ScreenshotPreventing-iOS) Prevent screenshot or screenrecording on iOS devices <br>
+
+## 3D
+[Euclid](https://github.com/nicklockwood/Euclid) <br>
