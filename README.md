@@ -394,4 +394,5 @@ Re-write of Injection for Xcode in (mostly) Swift) <br>
 [ScreenshotPreventing-iOS](https://github.com/yoxisem544/ScreenshotPreventing-iOS) Prevent screenshot or screenrecording on iOS devices <br>
 
 ## 3D
-[Euclid](https://github.com/nicklockwood/Euclid) <br>
+[Euclid](https://github.com/nicklockwood/Euclid) About
+A Swift library for creating and manipulating 3D geometry <br>
