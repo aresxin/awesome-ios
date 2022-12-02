@@ -50,6 +50,8 @@
 * Hot Reloading
 * Memory leaks tracker
 * build tool 
+* concurrency
+
 
 # awesome-ios
 
@@ -382,3 +384,7 @@ Re-write of Injection for Xcode in (mostly) Swift) <br>
 
 ## build tool 
 [Scipio](https://github.com/giginet/Scipio) (A new build tool to generate XCFramework) <br>
+
+
+## concurrency
+[swift-async-queue](https://github.com/dfed/swift-async-queue) A queue that enables ordered sending of events from synchronous to asynchronous code <br>
