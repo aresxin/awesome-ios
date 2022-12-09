@@ -54,7 +54,7 @@
 * screenshot or screenrecording
 * 3D
 * Images
-
+* Stable Diffusion
 
 # awesome-ios
 
@@ -401,3 +401,8 @@ A Swift library for creating and manipulating 3D geometry <br>
 
 ## Images
 [SwiftDraw](https://github.com/swhitty/SwiftDraw) A Swift library and command-line tool for drawing and converting SVG images. <br>
+
+## Stable Diffusion
+https://stability.ai/blog/stable-diffusion-announc
+https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon
+https://github.com/ynagatomo/ImgGenSD2
