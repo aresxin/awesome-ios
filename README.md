@@ -179,7 +179,7 @@
 >https://github.com/facebook/flipper <br>
 >https://github.com/pointfreeco/swift-custom-dump <br>
 >https://github.com/CocoaDebug/CocoaDebug <br>
-
+>[SimBuddy](https://github.com/chockenberry/SimBuddy) SimBuddy – Your Simulator’s BFF <br>
 ---
 
 ## uiscrollview nested uiscrollview
