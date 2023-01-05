@@ -55,6 +55,7 @@
 * 3D
 * Images
 * Stable Diffusion
+* Security
 
 # awesome-ios
 
@@ -406,3 +407,6 @@ A Swift library for creating and manipulating 3D geometry <br>
 https://stability.ai/blog/stable-diffusion-announc <br>
 https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon <br>
 https://github.com/ynagatomo/ImgGenSD2 <br>
+
+## Security
+[Security Application Static Analysis applied to iOS and Gitlab CI](https://benoitpasquier.com/2022/07/security-application-static-analysis-applied-to-ios-and-gitlab-ci/) <br>
