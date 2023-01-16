@@ -388,7 +388,7 @@ Re-write of Injection for Xcode in (mostly) Swift) <br>
 
 ## build tool 
 [Scipio](https://github.com/giginet/Scipio) (A new build tool to generate XCFramework) <br>
-
+[CodePecker](https://github.com/woshiccm/Pecker) (CodePecker is a tool to detect unused Swift code.) <br>
 
 ## concurrency
 [swift-async-queue](https://github.com/dfed/swift-async-queue) A queue that enables ordered sending of events from synchronous to asynchronous code <br>
