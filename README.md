@@ -256,6 +256,9 @@ Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. 
 >[FloatingPanel](https://github.com/scenee/FloatingPanel) A clean and easy-to-use floating panel UI component for iO <br>
 >[MagicTimer](https://github.com/MagicTimerFW/MagicTimer) MagicTimer is a UIView based timer that displays a countdown or count-up timer. <br>
 >[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) About Showcase your awesome new app features <br>
+>[Aiolos](https://bts.snowcorp.com/browse/SNOWSTUDIO-1197) A floating panel for your iOS Apps <br>
+
+
 ---
 
 
