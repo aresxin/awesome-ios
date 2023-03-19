@@ -406,10 +406,11 @@ A Swift library for creating and manipulating 3D geometry <br>
 ## Images
 [SwiftDraw](https://github.com/swhitty/SwiftDraw) A Swift library and command-line tool for drawing and converting SVG images. <br>
 
-## Stable Diffusion
+## AI&Stable Diffusion
 https://stability.ai/blog/stable-diffusion-announc <br>
 https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon <br>
 https://github.com/ynagatomo/ImgGenSD2 <br>
+https://github.com/chenxi92/ChatGPT <br>
 
 ## Security
 [Security Application Static Analysis applied to iOS and Gitlab CI](https://benoitpasquier.com/2022/07/security-application-static-analysis-applied-to-ios-and-gitlab-ci/) <br>
