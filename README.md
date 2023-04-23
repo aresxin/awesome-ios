@@ -307,7 +307,7 @@ Sticky Grid Collection View: Implementing From Scratch <br>
 
 ## CoreText
 [DTCoreText](https://github.com/Cocoanetics/DTCoreText) <br>
-
+[lexical-ios](https://github.com/facebook/lexical-ios) <br>
 ---
 
 ## Font
