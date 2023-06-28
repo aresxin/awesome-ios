@@ -56,6 +56,8 @@
 * Images
 * Stable Diffusion
 * Security
+* Code generator for Swift language
+
 
 # awesome-ios
 
@@ -412,5 +414,10 @@ https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon
 https://github.com/ynagatomo/ImgGenSD2 <br>
 https://github.com/chenxi92/ChatGPT <br>
 
+
 ## Security
 [Security Application Static Analysis applied to iOS and Gitlab CI](https://benoitpasquier.com/2022/07/security-application-static-analysis-applied-to-ios-and-gitlab-ci/) <br>
+
+## Code generator for Swift language
+[Sourcery](https://github.com/krzysztofzablocki/Sourcery)
+
