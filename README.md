@@ -57,7 +57,7 @@
 * Stable Diffusion
 * Security
 * Code generator for Swift language
-
+* Swift-Macros
 
 # awesome-ios
 
@@ -421,3 +421,5 @@ https://github.com/chenxi92/ChatGPT <br>
 ## Code generator for Swift language
 [Sourcery](https://github.com/krzysztofzablocki/Sourcery)
 
+## Swift-Macros
+[Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) 
