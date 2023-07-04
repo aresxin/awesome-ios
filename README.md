@@ -58,6 +58,7 @@
 * Security
 * Tool and Xcode Extension 
 * Swift-Macros
+* Foundation
 
 # awesome-ios
 
@@ -426,3 +427,6 @@ https://github.com/chenxi92/ChatGPT <br>
 
 ## Swift-Macros
 [Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) 
+
+## Foundation
+[attributed-string-builder](https://github.com/onevcat/attributed-string-builder)
