@@ -56,7 +56,7 @@
 * Images
 * Stable Diffusion
 * Security
-* Code generator for Swift language
+* Tool and Xcode Extension 
 * Swift-Macros
 
 # awesome-ios
@@ -65,6 +65,7 @@
 >[swift-log](https://github.com/apple/swift-log) <br>
 >[swift-collections](https://github.com/apple/swift-collections) <br>
 >[swift-algorithms](https://github.com/apple/swift-algorithms) <br>
+>[swift-metrics](https://github.com/apple/swift-metrics) <br>
 
 ---
 
@@ -419,8 +420,9 @@ https://github.com/chenxi92/ChatGPT <br>
 ## Security
 [Security Application Static Analysis applied to iOS and Gitlab CI](https://benoitpasquier.com/2022/07/security-application-static-analysis-applied-to-ios-and-gitlab-ci/) <br>
 
-## Code generator for Swift language
+## Tool and Xcode Extension 
 [Sourcery](https://github.com/krzysztofzablocki/Sourcery)
+[SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
 
 ## Swift-Macros
 [Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) 
