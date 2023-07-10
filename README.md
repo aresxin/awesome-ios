@@ -70,6 +70,9 @@
 
 ---
 
+## swift Package Index
+[swift Package Index](https://swiftpackageindex.com/) <br>
+
 ## App open source 
 >[kickstarter](https://github.com/kickstarter/ios-oss) <br>
 
@@ -430,3 +433,4 @@ https://github.com/chenxi92/ChatGPT <br>
 
 ## Foundation
 [attributed-string-builder](https://github.com/onevcat/attributed-string-builder)
+[UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift)
