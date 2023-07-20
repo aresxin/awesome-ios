@@ -425,8 +425,8 @@ https://github.com/chenxi92/ChatGPT <br>
 [Security Application Static Analysis applied to iOS and Gitlab CI](https://benoitpasquier.com/2022/07/security-application-static-analysis-applied-to-ios-and-gitlab-ci/) <br>
 
 ## Tool and Xcode Extension 
-[Sourcery](https://github.com/krzysztofzablocki/Sourcery)
-[SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
+[Sourcery](https://github.com/krzysztofzablocki/Sourcery) Meta-programming for Swift, stop writing boilerplate code. <br>
+[SwiftFormat](https://github.com/nicklockwood/SwiftFormat) <br>
 
 ## Swift-Macros
 [Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) 
