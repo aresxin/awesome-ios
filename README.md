@@ -264,7 +264,7 @@ Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. 
 >[MagicTimer](https://github.com/MagicTimerFW/MagicTimer) MagicTimer is a UIView based timer that displays a countdown or count-up timer. <br>
 >[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) About Showcase your awesome new app features <br>
 >[Aiolos](https://bts.snowcorp.com/browse/SNOWSTUDIO-1197) A floating panel for your iOS Apps <br>
-
+>[ScrollStackController](https://github.com/malcommac/ScrollStackController)  Easy scrollable layouts in UIKit <br>
 
 ---
 
