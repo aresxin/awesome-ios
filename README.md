@@ -59,6 +59,7 @@
 * Tool and Xcode Extension 
 * Swift-Macros
 * Foundation
+* Swift OpenAPI Generator
 
 # awesome-ios
 
@@ -434,3 +435,8 @@ https://github.com/chenxi92/ChatGPT <br>
 ## Foundation
 [attributed-string-builder](https://github.com/onevcat/attributed-string-builder)
 [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift)
+
+## Swift OpenAPI Generator
+[Meet Swift OpenAPI Generator](https://developer.apple.com/videos/play/wwdc2023/10171/) <br>
+[Meet Swift OpenAPI Generator Note](https://www.wwdcnotes.com/notes/wwdc23/10171/) <br>
+[CreateAPI](https://github.com/CreateAPI/CreateAPI) Delightful code generator for OpenAPI specs <br>
